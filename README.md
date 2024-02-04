@@ -2,7 +2,7 @@
 This is an AI bot that using Langchain to QA on a database and provide customers with product recommendations.
 This is a Demo project on seeing how a power of LLM's colud be utilized to add AI to a SalesBot
 
-#https://vimeo.com/909626173?share=copy
+https://vimeo.com/909626173?share=copy
 
 #Installation Instruction (For Windows)
 
