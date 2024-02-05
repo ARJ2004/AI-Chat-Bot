@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## How to start the bot
 ##### 1. Set up openapi key as environment
 ```
-set OPENAI_API_KEY=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
+set OPENAI_API_KEY="YOUR_OPENAI_APIKEY"
 ```
 ##### 2. Set the python packages as environment, which are installed in step 5 above
 ```
