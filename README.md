@@ -12,10 +12,15 @@ Product Recommendation: Integrated a product database to generate tailored recom
 
 Database Architecture:
   Docstore: Organized product-related documents for efficient retrieval.
+  
   Graph Store: Mapped relationships and dependencies among products.
+  
   Index Store: Enabled structured indexing of the database.
+  
   Vector Store: Implemented vector embeddings to support similarity searches and enhance product matching accuracy.
+  
   Tech Stack: Python, LangChain, JSON-based product databases.
+  
   Impact: Demonstrated how AI and LLMs could revolutionize sales interactions, improving customer satisfaction and optimizing product discovery.
 
 
