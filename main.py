@@ -14,7 +14,7 @@ import pytz
 from llama_index import StorageContext, load_index_from_storage
 load_dotenv()
 import openai
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("Your_API_KEY")
 import re
 from prompts import *
 import random
